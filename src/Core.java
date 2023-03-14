@@ -1,2 +1,2 @@
-public class Core {
+public enum Core {
 }

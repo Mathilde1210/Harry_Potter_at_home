@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class GameLogic {
     static Scanner scanner = new Scanner(System.in);
     //method to get user input from console
@@ -37,4 +38,5 @@ public class GameLogic {
     public static void anythingToContinue(){
         System.out.println("\nEnter anything to continue...");
     }
+
 }
